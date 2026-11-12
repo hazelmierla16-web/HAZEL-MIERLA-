@@ -195,7 +195,7 @@ color: #0a0f08;
 .hero-text {
 max-width: 650px;
 
-color: #141a0e;
+color: #000000;
 
 font-size: 1.12rem;
 
@@ -247,7 +247,7 @@ background: #96e2a9;
 color: #0d140e;
 
 box-shadow:
-0 8px 22px rgba(139, 238, 55, 0.1803921568627451);
+0 8px 22px rgba(105, 194, 28, 0.1803921568627451);
 }
 
 .primary:hover {
@@ -271,7 +271,7 @@ HERO CARD
 ========================================================= */
 
 .hero-card {
-background: #142015;
+background: #16861f;
 
 border: 1px solid #37d449;
 
